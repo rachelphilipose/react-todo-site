@@ -1,0 +1,19 @@
+{
+  "name": "react-todo-site",
+  "version": "1.0.0",
+  "description": "making a basic to-do list site to practice my react skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelphilipose/react-todo-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelphilipose/react-todo-site/issues"
+  },
+  "homepage": "https://github.com/rachelphilipose/react-todo-site#readme"
+}
