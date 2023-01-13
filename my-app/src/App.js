@@ -2,12 +2,20 @@ import logo from './logo.svg';
 import './App.css';
 
 
-import React from 'react';
+import React, { useState } from 'react';
 import 'bulma/css/bulma.min.css';
 import { Box, Form, Button } from 'react-bulma-components';
+import styled from "styled-components";
 
 
 
+
+
+const Container = styled.div`
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+`;
 
 
 
